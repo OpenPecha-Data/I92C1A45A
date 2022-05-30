@@ -1,0 +1,96 @@
+id: I92C1A45A
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:50:24.686859'
+last_modified: '2022-05-30T18:50:24.686865'
+parser: null
+source_metadata:
+  title: Dodrupchen Jigme Trinle Özer Series
+  language: zh
+  description: 'Texts by the First Dodrupchen, Jigme Trinle Özer (rdo grub ’jigs med
+    phrin las ''od zer, 1745–1821), who was also known as Kunzang Shenpen (kun bzang
+    gzhan phan):'
+  volume:
+    f4607:
+      title: Aspiration at the Moment of Death
+      base_file: f4607.txt
+      order: 1
+      parent: Aspiration Prayers
+    fB4BC:
+      title: Brief Dharmapālas Offering
+      base_file: fB4BC.txt
+      order: 2
+      parent: Dharma Protectors
+    f021D:
+      title: The Prayer to Guru Rinpoche for Attainments
+      base_file: f021D.txt
+      order: 3
+      parent: Guru Rinpoche Prayers
+    fB999:
+      title: 'A Constant Stream of Blessings: A Prayer to the Eight Supreme Vidyādharas
+        of India'
+      base_file: fB999.txt
+      order: 4
+      parent: Lineage Prayers
+    fBF09:
+      title: The Brief Ḍākinī Prayer
+      base_file: fBF09.txt
+      order: 5
+      parent: Lineage Prayers
+    f53EE:
+      title: 'The Source of Accomplishment, the Fruit of the Twofold Truth: A Prayer
+        to the Wisdom Ḍākinī Dechen Gyalmo'
+      base_file: f53EE.txt
+      order: 6
+      parent: Lineage Prayers
+    fF688:
+      title: 'The Excellent Path to Omniscience: The Dzogchen Preliminary Practice
+        of Longchen Nyingtik'
+      base_file: fF688.txt
+      order: 7
+      parent: Ngöndro
+    f4AB2:
+      title: 'The Excellent Path to Perfect Liberation: A Guidance Practice (Nedren)
+        for the Dukngal Rangdrol (Natural Liberation of Suffering) Practice of the
+        Great Compassionate One from the Longchen Nyingtik'
+      base_file: f4AB2.txt
+      order: 8
+      parent: Practices
+    fF6AE:
+      title: 'The Source of Abundant Merit: A Feast-Offering for the Secret Practice
+        of the Great Compassionate One, Natural Liberation of Suffering from The Heart-Essence
+        of the Vast Expanse'
+      base_file: fF6AE.txt
+      order: 9
+      parent: Practices
+    f6035:
+      title: 'The Stairway to Great Bliss: A Method for Planting the Seed of Liberation
+        in Animals'
+      base_file: f6035.txt
+      order: 10
+      parent: Practices
+    fAC7A:
+      title: 'Beautiful Garland of Flowers: A Brief Prayer to the Successive Incarnations
+        of Dzogchenpa Changchub Dorje'
+      base_file: fAC7A.txt
+      order: 11
+      parent: Prayers
+    fE4F4:
+      title: Detailed Visualization of the Great Compassionate One’s Retinue
+      base_file: fE4F4.txt
+      order: 12
+      parent: Sādhanas
+    f3C3A:
+      title: 'Highway of the Great Yoga: A Daily Practice for the Peaceful and Wrathful
+        Deities of the Self-Liberated Wisdom Mind'
+      base_file: f3C3A.txt
+      order: 13
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
